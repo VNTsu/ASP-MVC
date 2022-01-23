@@ -1,0 +1,492 @@
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/MemberYear,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/MemberYear,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/OldestMember,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /lib/jquery/dist/jquery.min.js,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /lib/bootstrap/dist/js/bootstrap.bundle.min.js,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /js/site.js,
+ QueryString: ?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/AllMember,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /NashTech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /css/site.css,
+ QueryString: ?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /lib/bootstrap/dist/css/bootstrap.min.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/MemberYear,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /favicon.ico,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Rookies/AllPeople,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: http,
+ Host: localhost:5293,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Privacy,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home/Privacy,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Home,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Rookies/ExporttExcelFile/,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /Nashtech/Rookies/Index,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+HTTPRequest Report: 
+ Schem: https,
+ Host: localhost:7032,
+ Path: /ASP_MVC_Core_1.styles.css,
+ QueryString: ,
+ Body: Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream

@@ -1,0 +1,36 @@
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\appsettings.Development.json
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\appsettings.json
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.staticwebassets.runtime.json
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.exe
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.deps.json
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.runtimeconfig.json
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ref\ASP MVC Core 1.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ASP MVC Core 1.pdb
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.csproj.AssemblyReference.cache
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.AssemblyInfoInputs.cache
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.AssemblyInfo.cs
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.csproj.CoreCompileInputs.cache
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.MvcApplicationPartsAssemblyInfo.cache
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.RazorAssemblyInfo.cache
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.RazorAssemblyInfo.cs
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\scopedcss\bundle\ASP MVC Core 1.styles.css
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\scopedcss\projectbundle\ASP MVC Core 1.bundle.scp.css
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.dll
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ref\ASP MVC Core 1.dll
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.pdb
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.genruntimeconfig.cache
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ClosedXML.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\ExcelNumberFormat.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\System.IO.Packaging.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Code Rookie\ASP MVC Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Code Rookie\ASP MVC Core 1\obj\Debug\net6.0\ASP MVC Core 1.csproj.CopyComplete
